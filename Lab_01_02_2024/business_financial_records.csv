@@ -1,0 +1,101 @@
+Date,Transaction ID,Description,Category,Amount,Payment Type
+2023-12-06,T1000,Product A,Home Goods,480.76,Online Payment
+2023-04-25,T1001,Product C,Clothing,13.76,Credit Card
+2023-09-21,T1002,Product A,Home Goods,26.6,Bank Transfer
+2023-10-02,T1003,Product A,Electronics,52.26,Credit Card
+2023-05-20,T1004,Product D,Clothing,75.38,Bank Transfer
+2023-02-02,T1005,Product A,Books,311.47,Cash
+2023-11-22,T1006,Product B,Books,50.56,Cash
+2023-10-10,T1007,Product A,Electronics,189.8,Online Payment
+2023-04-08,T1008,Product A,Clothing,127.22,Bank Transfer
+2023-12-24,T1009,Product D,Home Goods,67.13,Credit Card
+2023-01-28,T1010,Product C,Books,108.11,Bank Transfer
+2023-01-18,T1011,Product C,Books,465.82,Cash
+2023-06-09,T1012,Product D,Home Goods,250.75,Bank Transfer
+2023-02-22,T1013,Product C,Clothing,46.72,Online Payment
+2023-06-15,T1014,Product C,Electronics,237.96,Online Payment
+2023-01-20,T1015,Product B,Books,174.52,Cash
+2023-11-07,T1016,Product D,Books,472.32,Credit Card
+2023-04-26,T1017,Product B,Electronics,360.29,Credit Card
+2023-03-15,T1018,Product A,Clothing,250.75,Online Payment
+2023-04-03,T1019,Product A,Home Goods,119.25,Online Payment
+2023-11-10,T1020,Product A,Books,422.28,Cash
+2023-04-08,T1021,Product B,Books,391.98,Bank Transfer
+2023-08-29,T1022,Product A,Home Goods,273.24,Bank Transfer
+2023-11-02,T1023,Product B,Electronics,381.26,Credit Card
+2023-01-22,T1024,Product A,Electronics,214.13,Cash
+2023-03-10,T1025,Product B,Electronics,103.78,Cash
+2023-06-23,T1026,Product B,Electronics,481.34,Cash
+2023-06-25,T1027,Product D,Clothing,356.0,Credit Card
+2023-07-03,T1028,Product B,Clothing,103.89,Credit Card
+2023-10-23,T1029,Product B,Home Goods,238.38,Cash
+2023-05-09,T1030,Product A,Clothing,306.21,Bank Transfer
+2023-06-19,T1031,Product B,Electronics,91.59,Online Payment
+2023-09-16,T1032,Product B,Home Goods,282.71,Cash
+2023-04-07,T1033,Product B,Home Goods,88.59,Cash
+2023-11-26,T1034,Product A,Electronics,177.18,Bank Transfer
+2023-12-08,T1035,Product C,Clothing,219.32,Online Payment
+2023-06-08,T1036,Product B,Home Goods,341.3,Bank Transfer
+2023-12-09,T1037,Product B,Home Goods,366.84,Bank Transfer
+2023-11-09,T1038,Product C,Books,483.21,Cash
+2023-03-08,T1039,Product D,Home Goods,35.53,Bank Transfer
+2023-08-03,T1040,Product A,Books,245.05,Cash
+2023-07-19,T1041,Product C,Electronics,441.45,Online Payment
+2023-07-08,T1042,Product D,Home Goods,487.79,Online Payment
+2023-09-11,T1043,Product D,Electronics,98.77,Bank Transfer
+2023-11-01,T1044,Product C,Electronics,442.86,Online Payment
+2023-09-01,T1045,Product A,Books,135.39,Cash
+2023-07-24,T1046,Product B,Home Goods,97.76,Cash
+2023-10-11,T1047,Product D,Clothing,199.77,Bank Transfer
+2023-01-30,T1048,Product B,Home Goods,212.85,Credit Card
+2023-09-28,T1049,Product C,Home Goods,393.66,Bank Transfer
+2023-10-19,T1050,Product D,Home Goods,77.33,Credit Card
+2023-10-23,T1051,Product D,Clothing,200.48,Bank Transfer
+2023-11-02,T1052,Product D,Books,258.22,Credit Card
+2023-07-30,T1053,Product D,Electronics,192.2,Bank Transfer
+2023-06-12,T1054,Product B,Electronics,362.74,Online Payment
+2023-07-30,T1055,Product D,Home Goods,283.25,Credit Card
+2023-02-27,T1056,Product A,Clothing,118.23,Cash
+2023-01-07,T1057,Product A,Books,219.54,Credit Card
+2023-10-23,T1058,Product B,Books,46.96,Online Payment
+2023-08-16,T1059,Product B,Clothing,169.32,Bank Transfer
+2023-01-29,T1060,Product A,Electronics,234.35,Credit Card
+2023-06-29,T1061,Product C,Electronics,236.61,Cash
+2023-09-08,T1062,Product D,Electronics,285.65,Online Payment
+2023-06-08,T1063,Product C,Clothing,228.47,Bank Transfer
+2023-08-14,T1064,Product A,Clothing,13.37,Credit Card
+2023-11-02,T1065,Product C,Electronics,390.97,Bank Transfer
+2023-09-17,T1066,Product D,Electronics,168.65,Online Payment
+2023-11-22,T1067,Product D,Books,34.3,Cash
+2023-07-22,T1068,Product D,Electronics,343.36,Bank Transfer
+2023-06-15,T1069,Product A,Home Goods,37.91,Cash
+2023-01-03,T1070,Product D,Books,241.26,Cash
+2023-11-16,T1071,Product C,Electronics,436.65,Cash
+2023-04-05,T1072,Product C,Electronics,158.49,Cash
+2023-11-29,T1073,Product A,Books,348.31,Credit Card
+2023-09-22,T1074,Product B,Clothing,350.01,Bank Transfer
+2023-02-20,T1075,Product D,Clothing,168.01,Credit Card
+2023-10-24,T1076,Product C,Books,209.44,Bank Transfer
+2023-11-18,T1077,Product C,Books,498.52,Bank Transfer
+2023-11-27,T1078,Product B,Home Goods,228.53,Cash
+2023-04-19,T1079,Product B,Books,448.48,Cash
+2023-03-31,T1080,Product D,Home Goods,377.02,Bank Transfer
+2023-02-16,T1081,Product A,Clothing,295.65,Bank Transfer
+2023-09-07,T1082,Product C,Electronics,481.83,Online Payment
+2023-06-17,T1083,Product C,Electronics,467.85,Bank Transfer
+2023-03-28,T1084,Product A,Home Goods,105.12,Online Payment
+2023-04-06,T1085,Product A,Electronics,360.43,Credit Card
+2023-09-19,T1086,Product A,Home Goods,268.24,Cash
+2023-12-09,T1087,Product A,Clothing,143.3,Cash
+2023-12-26,T1088,Product C,Electronics,481.79,Cash
+2023-10-21,T1089,Product C,Clothing,153.07,Bank Transfer
+2023-12-07,T1090,Product A,Home Goods,82.77,Credit Card
+2023-01-27,T1091,Product A,Books,132.24,Online Payment
+2023-10-08,T1092,Product C,Electronics,354.48,Cash
+2023-05-22,T1093,Product C,Home Goods,84.84,Credit Card
+2023-05-02,T1094,Product B,Home Goods,247.11,Cash
+2023-01-15,T1095,Product D,Home Goods,406.13,Credit Card
+2023-12-22,T1096,Product A,Electronics,315.24,Bank Transfer
+2023-07-15,T1097,Product D,Home Goods,217.28,Online Payment
+2023-06-24,T1098,Product B,Home Goods,330.91,Credit Card
+2023-04-23,T1099,Product B,Clothing,23.81,Online Payment

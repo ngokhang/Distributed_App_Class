@@ -1,5 +1,0 @@
-describe(): 
-- count: số lượng giá trị
-- mean: giá trị trung bình
-- std: độ lệch chuẩn 
-- 

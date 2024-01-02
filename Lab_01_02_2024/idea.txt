@@ -1,0 +1,15 @@
+- Ý tưởng : Webapp thương mại điện tử
+- Công dụng : 
+  + Kết nối người mua và người bán thông qua ứng dụng. 
+  + Giúp người bán thống kê được xu hướng thị trường, từ đó đưa ra chiến lược kinh doanh phù hợp, bán các mặt hàng thông qua ứng dụng thông qua biểu đồ.
+  + Giúp người tiêu dùng cập nhật thông tin xu hướng thị trường, mức độ phục vụ của cửa hàng, mua hàng và thanh toán online thông qua các biểu đồ.
+- Các chức năng chính: 
+  + Đối với người bán: 
+    * CRUD sản phẩm
+    * Thống kê doanh thu, xu hướng mua hàng của người dùng liên quan đến các mặt hàng mà cửa hàng bày bán.
+    * Tự vô hiệu hoá tài khoản 
+  + Đối với người mua: 
+    * CRUD giỏ hàng
+    * Đánh giá sản phẩm
+    * Thống kê tài chính, xu hướng thị trường các mặt hàng quan tâm thống qua các biểu đồ. 
+- Web-app demo phần biểu diễn dữ liệu: http://plotlychallengechurn-env.eba-jidvvwmp.us-east-2.elasticbeanstalk.com/
